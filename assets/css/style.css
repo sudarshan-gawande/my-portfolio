@@ -402,6 +402,13 @@ img {
   color: var(--first-color);
 }
 
+.button--link1 {
+  cursor: default;
+  padding: 0;
+  background: transparent;
+  color: var(--first-color);
+}
+
 .button--link:hover {
   background-color: transparent;
   color: var(--first-color);
@@ -610,6 +617,10 @@ img {
 
 .services__button {
   cursor: pointer;
+  font-size: var(--small-font-size);
+}
+
+.services__button1 {
   font-size: var(--small-font-size);
 }
 
