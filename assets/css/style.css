@@ -538,28 +538,64 @@ img {
   width: 40%;
 }
 
-.skills__php {
-  width: 90%;
+.skills__java {
+  width: 80%;
 }
 
-.skills__mysql {
+.skills__framework {
   width: 72%;
 }
 
-.skills__node {
-  width: 58%;
+.skills__buildtool {
+  width: 90%;
 }
 
-.skills__python {
-  width: 94%;
+.skills__testing {
+  width: 70%;
+}
+
+.skills__api1 {
+  width: 90%;
+}
+
+.skills__other1 {
+  width: 80%;
 }
 
 .skills__blender {
-  width: 50%;
+  width: 80%;
+}
+
+.skills__cicd {
+  width: 90%;
+}
+
+.skills__containerization {
+  width: 70%;
+}
+
+.skills__cloud {
+  width: 75%;
+}
+
+.skills__security {
+  width: 75%;
+}
+
+.skills__scripting {
+  width: 65%;
+}
+
+.skills__artifact {
+  width: 95%;
+}
+
+.skills__other {
+  width: 85%;
 }
 
 .skills__photoshop {
-  width: 42%;
+  width: 60%;
 }
 
 .skills__adobeillustrator {
