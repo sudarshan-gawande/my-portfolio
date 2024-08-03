@@ -1134,7 +1134,8 @@ footer .footer__social a:hover {
   }
 
   .about__img {
-    width: 350px;
+    width: 500px;
+    height: 300px;
   }
 
   .about__description {
